@@ -1,0 +1,101 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-image {
+  background-image: url('images/desktop-bg.png');
+  height: 100%;
+  color: #091e42;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.bg-image p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #344563;
+}
+
+.d-flex {
+  margin-top: 200px;
+}
+
+.cards-section {
+  background-color: #f4f5f7;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.intro {
+ max-width: 600px;
+}
+
+article {
+  max-width: 80%;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+.about {
+  padding: 80px 30px 80px;
+}
+
+.contact {
+  background-image: url("images/desktop-contact-bg.png");
+  background-size: cover;
+  background-position: top right;
+  background-repeat: no-repeat;;
+  background-color: #6070ff;
+  border-top-left-radius: 70px;
+}
+
+form {
+  max-width: 500px;
+  height: 100vh;
+}
+
+.contact h2 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700px;
+}
+
+.contact p {
+  color: #ebebff;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.form-group {
+  width: 100%;
+}
+
+.contact button {
+  color: #6070ff;
+}
+
+.contact button:hover {
+  background-color: #6070ff;
+  color: #fff;
+}
+
+.lang-set {
+  background-color: #f7f7f9;
+  border: none;
+}
+
+.skills .arrow {
+  width: 20px;
+  height: 20px;
+}
+
+.skills .down {
+  width: 30px;
+  height: 30px;
+}
